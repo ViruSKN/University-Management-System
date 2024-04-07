@@ -4,7 +4,5 @@ University Management App in Java This project aims to develop a user-friendly a
 
 
 
-## imp links
-https://drive.google.com/drive/folders/1iZiXS-i3hed5QFiesZMUtJyaVGE96IDY
 
 
